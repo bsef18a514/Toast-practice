@@ -11,7 +11,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);  
         setContentView(R.layout.activity_main);  
   
-        //Displaying Toast with Hello Javatpoint message  
-        Toast.makeText(getApplicationContext(),"Hello Javatpoint",Toast.LENGTH_SHORT).show();  
+        
     }  
 }  
